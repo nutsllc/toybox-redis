@@ -1,6 +1,6 @@
 # Redis on Docker
 
-A Dockerfile for deploying a [Redis](http://redis.io/) which is a web based photo-management tool using Docker container.
+A Dockerfile for deploying a [Redis](http://redis.io/) which is in-memory data structure store, used as database, cache and message broker.
 
 This image is registered to the [Docker Hub](https://hub.docker.com/r/nutsllc/toybox-redis/) which is the official docker image registory.
 
