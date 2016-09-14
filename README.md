@@ -24,6 +24,12 @@ Then going into redis container and executing redis-cli client:
 docker exec -it redis redis-cli
 ```
 
+## Redis commands
+
+
+
+* [see the official document](http://redis.io/commands)
+
 ## License
 
 * [Redis](http://redis.io/) BSD
